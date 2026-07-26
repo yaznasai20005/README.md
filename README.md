@@ -1,5 +1,7 @@
 # my-profilename: generate animation
 
+name: generate animation
+
 on:
   schedule:
     - cron: "0 */12 * * *"
