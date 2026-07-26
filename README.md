@@ -1,5 +1,3 @@
-# my-profilename: generate animation
-
 name: generate animation
 
 on:
